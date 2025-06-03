@@ -1,4 +1,1 @@
-#支持私库
-opengrok/docker
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+bitnami/redis-cluster:8.0.2-debian-12-r1

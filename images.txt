@@ -1,3 +1,5 @@
 bitnami/redis-cluster
 bitnami/redis-exporter
 bitnami/os-shell
+bitnami/wordpress
+bitnami/apache-exporter

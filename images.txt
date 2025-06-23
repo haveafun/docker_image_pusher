@@ -3,3 +3,4 @@ bitnami/redis-exporter
 bitnami/os-shell
 bitnami/wordpress
 bitnami/apache-exporter
+jupyter/minimal-notebook
